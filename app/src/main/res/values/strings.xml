@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Acuvera Scanner v1</string>
+    <string name="loader_text">Acuvera</string>
+    <string name="menu_item">SCAN</string>
+    <string name="menu_item_stop">STOP</string>
+    <string name="location_permission">Sorry, Location is required for app functionality. Kindly grant access.</string>
+    <string name="location_permission_2">Location permission is required for app functionality. Kindly grant access.</string>
+</resources>

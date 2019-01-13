@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#424242"
+              android:padding="8dp">
+
+
+    <TextView
+            android:id="@+id/text_macaddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"/>
+
+    <!--<TextView-->
+            <!--android:id="@+id/text_status"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="status"-->
+            <!--android:textColor="#FFFFFF"/>-->
+
+    <TextView
+            android:id="@+id/text_manufacturer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="status"
+            android:textColor="#FFFFFF"/>
+
+    <TextView
+            android:id="@+id/text_country"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"/>
+
+    <TextView
+            android:id="@+id/text_lat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"/>
+
+    <TextView
+            android:id="@+id/text_lng"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#FFFFFF"/>
+
+</LinearLayout>
